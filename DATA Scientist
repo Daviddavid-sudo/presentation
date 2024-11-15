@@ -1,0 +1,105 @@
+Rôles et responsabilités :
+Quels sont les rôles et responsabilités principaux de ce métier ?
+; Analyser les données en utilisant des méthodes statistiques classiques.
+; Creer des modeles de predictions
+; Réaliser une amélioration continue des modèles.
+Quelles sont les tâches quotidiennes typiques de ce rôle ?
+; copie coller
+; Définir des règles de gestion de nettoyage des bases de données (formatage, suppression des doublons…).
+; Définir des règles de gestion de structuration des différentes bases de données entre elles.
+; Écrire et rédiger les spécifications d’automatisation des règles de gestion à la DSI ou à la maîtrise d’ouvrage.
+; Maîtriser la qualité des données tout au long de leur traitement.
+; Déterminer ou construire les variables importantes à introduire dans les modèles statistiques.
+Quelle est la mission principale du métier dans une équipe de data ?
+; copie coller
+; Analyser les données en utilisant des méthodes statistiques classiques.
+; Créer et tester des algorithmes d’apprentissage automatique (machine learning, deep learning…).
+; Construire les données d’entraînement des modèles.
+; Réaliser une amélioration continue des modèles.
+
+
+Compétences requises :
+Quelles sont les compétences techniques indispensables pour réussir dans ce rôle (exemples de langages de programmation, frameworks, techniques spécifiques) ?
+; python, r, sql, mysql, mongodb
+Quelles sont les compétences analytiques ou de modélisation importantes pour ce métier ?
+;esprit critique
+;Analyser les questions, les hypothèses et les résultats de manière objective
+;Comprendre quelles sont les ressources essentielles pour résoudre une problématique
+;Envisager les problématiques sous un angle différent
+;Capacité à appliquer efficacement les mathématiques et les statistiques 
+;Effectuer des analyses exploratoires et identifier les tendances et relations importantes
+;Appliquer une approche statistique rigoureuse pour extraire les données factuelles
+;Comprendre les avantages et les limites des différents modèles de test et en quoi ils sont adaptés à une problématique donnée
+;Capacité à tirer parti du machine learning et de l'intelligence artificielle
+;Comprendre quand et comment le machine learning et l'IA sont des solutions viables pour les métiers
+;Entraîner et déployer des modèles pour mettre en œuvre des solutions IA productives
+;Expliquer les modèles et les prédictions de manière pertinente pour les métiers
+
+
+Quelles compétences non techniques (soft skills) sont essentielles pour bien communiquer et collaborer dans ce poste ?
+; copie coller
+; il devra être doté d'un esprit d'analyse, lui permettant d’identifier et de comprendre les problématiques business de l’entreprise. 
+; Rigoureux, organisé et précis, 
+; il devra aussi faire preuve d’excellentes capacités de communication lui permettant de rendre intelligible son travail au plus grand nombre et de convaincre les décideurs. 
+; Il sera force de proposition et coordonnera les actions avec les différentes équipes métiers afin de satisfaire au mieux les clients. 
+; communication efficace
+; Expliquer le sens des informations exploitables en termes pertinents pour les métiers
+; Communiquer les informations en soulignant la valeur des actions
+; Transmettre le processus de recherche et les suppositions qui ont mené à la conclusion
+; Rigeur
+; goût pour l’innovation
+
+
+Outils et technologies :
+Quels sont les outils, logiciels ou technologies spécifiques à ce métier (librairies Python, outils d’analyse, technologies de cloud, etc.) ?
+; Pandas, numpy, scikit-ler, tensorflow, pytorch
+; python, r, sql, mysql, mongodb
+; aws, gcp, azure
+Quels sont les frameworks, bibliothèques ou outils incontournables pour ce rôle ?
+;pandas
+;Les data scientists utilisent des outils clés pour gérer efficacement les gros volumes de données.
+;Apache Hadoop : fondamental pour le travail avec le "big data", Hadoop supporte le stockage et le traitement distribués des données sur plusieurs machines, accélérant ainsi leur traitement en les divisant en segments plus petits.
+;Apache Spark : capable de traiter les données directement en mémoire vive, Spark excelle dans les tâches nécessitant un traitement quasi instantané, telles que le suivi en temps réel des interactions sur des sites web.
+
+Y a-t-il des technologies émergentes ou des outils de pointe utilisés dans ce métier (exemples de tendances technologiques) ?
+; ia generative comme chatgpt
+
+Perspectives d’avenir :
+Quelles sont les tendances futures pour ce métier dans le domaine de la data (évolution vers l’IA, automatisation, etc.) ?
+; copie coller
+; A l’heure du big data et de l’augmentation croissante de données stratégiques à exploiter par les entreprises, les perspectives d’évolution du poste sont nombreuses, 
+; notamment dans les secteurs des services financiers, des nouvelles technologies, du conseil, de la santé ou de l’industrie.
+Quelles sont les opportunités d’évolution de carrière dans ce métier (de junior à senior, puis management ou spécialiste) ?
+; copie coller
+; Selon l’entreprise , après quelques années en poste, le Data Scientist peut monter en compétences et évoluer vers des fonctions managériales telles que Data Scientist Senior, 
+; Chief Data Scientist ou Lead Data Scientist.
+Comment ce métier est-il impacté par les innovations technologiques (IA, cloud computing, etc.) ?
+; avec la croissance des donnees il faut utilise des serveurs massifs pour stocke et entraine les modeles
+; ia a demontre l'importance des donnees 
+Y a-t-il des spécialisations au sein de ce métier qui gagnent en importance ou qui se développent (exemples de niches ou sous-domaines) ?
+;data Scientist healthcare
+;data scientist fiance
+;data scientist developeur
+;data scientist ia
+;data scientist assurance
+;data scientist geomaticien/ne
+;data scientist transport
+
+transformer le text en chiffre regrouping automatique lincident avec une algo clustering 
+il y a toujours deux data scientist
+toujours travaille ensemble travail agile
+data scientist: on veut automiser ca, resultat vente les cinq derniere années predire le future vente
+vscode python
+beaucoup test unitaire
+competence de deploiement
+demande plus et plus de competence
+une environment par theme avec docker
+il faut regarder aux offres de l’entreprise parfois data science tu fais data analyst parfois data eng tu fais la data science
+tout est a paris
+projet predire la consommmation leau
+il faut se former sur le metier comme apprendre leau
+misison principale avec les plus petit missions
+boulouger utilise ia generative pour ameloier site web pas juste regarder aux photos des articles mais voir un pour plus utilisant de productives
+data scientist not just models but some do only lanaylze
+chatgpt est interdit
+intern chatgpt a la boite 
